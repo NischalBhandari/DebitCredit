@@ -1,0 +1,14 @@
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.Form1.resources
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.cache
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Nischal\source\repos\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Nischal\source\repos\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\Nischal\source\repos\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.csprojAssemblyReference.cache
+C:\Users\Nischal\source\repos\Accounting\Accounting\bin\Debug\Accounting.exe.manifest
+C:\Users\Nischal\source\repos\Accounting\Accounting\bin\Debug\Accounting.application
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.exe.manifest
+C:\Users\Nischal\source\repos\Accounting\Accounting\obj\Debug\Accounting.application
